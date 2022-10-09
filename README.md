@@ -6,6 +6,7 @@ The package image_processing is used to:
         - Histogram matching
         - Structural similarity
         - Resize image
+        - Redemoinho
     Utils:
         - Read image
         - Save image
